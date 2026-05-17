@@ -35,3 +35,7 @@ dist-ssr
 
 # Codex folders
 .codex/
+
+# Markdown specification and plan files
+*.md
+
